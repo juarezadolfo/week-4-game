@@ -1,0 +1,21 @@
+body{
+	background-image: url("../images/background.png")
+}
+.jumbotron{
+    background-color: rgba(9, 150, 150, 0.507);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.well{
+    background-color: rgba(9, 150, 150, 0.507);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.thumbnail{
+    background-color: rgba(9, 150, 150, 0.507);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: auto;
+}
+.thumbnail>img{
+    height: 40px;
+    width: auto;
+}
