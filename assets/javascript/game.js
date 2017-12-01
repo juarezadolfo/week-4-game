@@ -1,3 +1,4 @@
+
 $(document).ready(function(){
 
 function genRandomNumber(){
@@ -8,7 +9,21 @@ function genRandomNumber(){
 var randomNum = genRandomNumber();
 console.log(randomNum);
 $(".well-lg").html(randomNum);
+
+
 });
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
