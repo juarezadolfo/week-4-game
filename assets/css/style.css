@@ -5,11 +5,13 @@ body{
     background-color: rgba(9, 150, 150, 0.507);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    font-weight: bold;
 }
 .well{
     background-color: rgba(9, 150, 150, 0.507);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-right: 20px;
+    font-weight: bold;
 }
 .well-lg{
     padding-top:43px;
